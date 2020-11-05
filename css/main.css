@@ -1,6 +1,5 @@
 .site-header{
     background-color: #1bbc9b;
-    /* color: #ecfdf9; */
     color: black;
     height: 100vh;
     font-family: monospace;
@@ -11,7 +10,7 @@
 }
 
 .site-header-content{
-    margin: 10px;
+    padding: 25px;
 }
 
 .profile-pic{
