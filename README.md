@@ -1,3 +1,5 @@
 # My Profile
-The title says it all!
+### The title says it all!
+
+This is a welcome page containing a brief introduction of me, containing the links to all my social media handles for people who are willing to know me.
 ### Here have a [look ;)](https://codingwolf-at.github.io/)
