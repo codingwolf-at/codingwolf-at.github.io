@@ -28,3 +28,9 @@ body{
 a{
     text-decoration: none;
 }
+
+.btn {
+    color: white;
+    background-color: #111827;
+    padding: 0.5rem 1rem;
+}
