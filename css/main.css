@@ -33,4 +33,6 @@ a{
     color: white;
     background-color: #111827;
     padding: 0.5rem 1rem;
+    font-family: inherit;
+    font-size: larger;
 }
