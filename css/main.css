@@ -29,6 +29,14 @@ a{
     text-decoration: none;
 }
 
+.social-img {
+    margin-bottom: 1rem;
+}
+
+.social-img:hover {
+    transform: scale(1.3);
+}
+
 .btn {
     color: white;
     background-color: #111827;
